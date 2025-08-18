@@ -1,10 +1,1 @@
-.bookmark-item {
-  background: #fff;
-  border: 2px solid #000;
-  padding: 10px;
-  transition: transform 0.2s ease;
-}
-.bookmark-item:hover {
-  transform: scale(1.05);
-  border-color: red;
-}
+
